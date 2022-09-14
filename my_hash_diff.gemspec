@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = "hash_diff"
+  s.name        = "my_hash_diff"
   s.version     = "0.0.0"
   s.summary     = "hash diff implementation by Sebastian Lascau"
   s.description = "A hash diff implementation"
